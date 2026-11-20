@@ -1,6 +1,6 @@
 # Day 11 — Controlled Agent Security (2026)
 
-**Học viên:** Bùi Đức Tuấn · Lớp K5-L3B
+**Học viên:** Bùi Đức Tuấn · MSSV 2A2020603902 · Lớp K5-L3B
 
 **Chạy nhanh:** `python src/main.py --part 3` (Blue → `outputs/results.json`) · `python src/main.py --part 4` (Red / Red Advance → `outputs/attack_results.json`) · `python scripts/grade.py --submission-dir . --out outputs/grade_report.json`
 
